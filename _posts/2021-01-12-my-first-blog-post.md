@@ -1,6 +1,6 @@
 ---
-title: "My first blog post"
+title: "Hello World!"
 date: 2021-01-12
 ---
 
-Welcome to my Github blog! I will frequently update this through my time in Coding 1. 
+Welcome to my Github blog! I will frequently blog through my time in Coding 1. 
