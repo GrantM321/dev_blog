@@ -4,7 +4,7 @@ date: "2021-03-19"
 ---
 
 ## The Goal
-    The Goal for this sprint was to make some good progress on the backend for the drones now that we have a good idea of what we are working towards. 
+ The Goal for this sprint was to make some good progress on the backend for the drones now that we have a good idea of what we are working towards. 
 
 ## The Process
 At first we were going strongly through our Kanban board, we were completing important tasks at a solid pace to good effect. 
